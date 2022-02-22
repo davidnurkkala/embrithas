@@ -1,1 +1,0 @@
--- jojo reference if you put your camera inside the pillar
