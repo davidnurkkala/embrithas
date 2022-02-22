@@ -1,0 +1,1 @@
+require(game.ReplicatedStorage:WaitForChild"Class":WaitForChild"WorldObject":WaitForChild"ClientObject":WaitForChild"Client")
